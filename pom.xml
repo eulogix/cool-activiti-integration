@@ -54,6 +54,11 @@
     	<artifactId>jersey-apache-client</artifactId>
     	<version>1.18.2</version>
     </dependency>
+    <dependency>
+    	<groupId>org.codehaus.jackson</groupId>
+    	<artifactId>jackson-mapper-lgpl</artifactId>
+    	<version>1.9.13</version>
+    </dependency>
   </dependencies>
 	 <build>
     <plugins>
