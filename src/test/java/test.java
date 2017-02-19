@@ -4,11 +4,10 @@ import org.activiti.engine.delegate.DelegateExecution;
 import org.activiti.engine.delegate.Expression;
 import org.activiti.engine.delegate.JavaDelegate;
 
-import com.pragma_sc.*;
-import com.pragma_sc.cool.activiti.formTypes.JsonFormType;
-import com.pragma_sc.cool.activiti.tasks.callREST;
-import com.pragma_sc.cool.bridge.serializer;
-import com.pragma_sc.*;
+import com.eulogix.cool.activiti.formTypes.JsonFormType;
+import com.eulogix.cool.activiti.tasks.callREST;
+import com.eulogix.cool.bridge.serializer;
+import com.eulogix.*;
 
 import org.apache.commons.io.*;
 import org.apache.commons.codec.binary.Base64;
